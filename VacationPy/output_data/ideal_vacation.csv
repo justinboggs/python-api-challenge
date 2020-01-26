@@ -1,9 +1,18 @@
-city,country,id,lat,lng,temp,humidity,clouds,wind_speed,hotel_name,hotel_address,hotel_rating
-Puerto Ayora,EC,3652764,-0.74,-90.35,77.0,57,23,10.31,Angermeyer Waterfront Inn,"Barrio Punta Estrada, Puerto Ayora",4.5
-Rocha,UY,3440777,-34.48,-54.33,70.83,49,0,7.9,Casa Rodo 53,"José Enrique Rodó 53, Rocha",4.6
-Urubicha,BO,3901969,-15.38,-62.95,77.0,55,31,1.5,,,
-Alibag,IN,1279027,18.64,72.88,75.2,61,20,4.7,"Radisson Blu Resort & Spa - Alibaug, India","Gondhalpada, Varasoli, Alibag",4.5
-Port Lincoln,AU,2063036,-34.73,135.87,75.43,48,0,3.85,Port Lincoln Hotel,"1 Lincoln Hwy, Port Lincoln",4.3
-Kahului,US,5847411,20.89,-156.47,79.25,61,20,11.41,Courtyard by Marriott Maui Kahului Airport,"532 Keolani Pl, Kahului",4.3
-Moron,AR,3430545,-34.65,-58.62,78.93,54,0,3.36,Hotel Cabildo,"Cabildo 368, Morón",2.6
-Itaqui,BR,3460629,-29.13,-56.55,70.07,53,0,3.38,Hotel Contursi,"R. Osvaldo Aranha, 1199 - Centro, Itaqui",3.8
+City,Country,City ID,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Hotel Name
+Rikitea,PF,4030556,-23.12,-134.97,79.11,77,0,10.22,Pension Maro'i
+Murray Bridge,AU,2065176,-35.12,139.27,79.52,61,5,5.01,Murray Bridge Hotel
+Arraial do Cabo,BR,3471451,-22.97,-42.03,75.16,82,0,6.76,Orlanova Hotel
+Talara,PE,3691582,-4.58,-81.27,74.08,92,15,14.29,Hotel Napoleon
+Presidencia Roque Saenz Pena,AR,3840300,-26.79,-60.44,75.47,48,0,3.49,Hotel Gualok
+Christchurch,NZ,2192362,-43.53,172.63,71.8,68,0,14.99,BreakFree on Cashel Christchurch
+Bhatkal,IN,1276067,13.97,74.57,77.83,39,5,2.17,The Royal Oak Hotel
+Juan de Ayolas,PY,3439378,-27.4,-56.9,73.8,51,0,3.83,Playa Municipal De Ayolas
+Takaka,NZ,2181997,-40.85,172.8,76.71,81,3,10.0,The Rocks Chalets
+Chacabuco,AR,3861953,-34.64,-60.47,70.0,76,0,4.0,Hotel Postal
+Dwarka,IN,1272140,22.24,68.97,71.55,70,0,9.46,"VITS Devbhumi, Dwarka"
+Paso de Carrasco,UY,3441292,-34.86,-56.05,71.55,46,0,8.05,Hotel Sofitel Montevideo Casino Carrasco and Spa
+Astorga,BR,3471368,-23.23,-51.67,75.2,64,0,2.77,Astorga Park Hotel
+Mahanoro,MG,1062553,-19.9,48.8,78.76,68,3,12.48,Coco Bungalows
+Villamontes,BO,3901547,-21.25,-63.5,75.25,37,0,3.96,Hotel El Rancho
+Cockburn Town,TC,3576994,21.46,-71.14,76.39,74,0,12.33,Bohio Dive Resort
+High Rock,BS,3572189,26.62,-78.28,70.25,64,0,9.4,Hideaway Bahamas Beach Club
